@@ -2,7 +2,11 @@ console.log("Hola mundo");
 
 const h1 = document.querySelector("h1");
 const p = document.querySelector('p');
+<<<<<<< HEAD
 const parra = document.querySelector('.parra');
+=======
+const parra = document.querySelector('.pas');
+>>>>>>> 9d5503878510cbfb880310501d4430213075c89f
 const pib = document.querySelector('#pib');
 const input = document.querySelector('input');
 
@@ -14,6 +18,7 @@ console.log({
     pib, 
     input,
 })
+<<<<<<< HEAD
 
 //h1.innerHTML = "Hola <Br> Bro";
 //h1.innerText = "hola <Br> bro"
@@ -27,3 +32,5 @@ img.setAttribute('src', 'https://i.pinimg.com/originals/8b/02/40/8b02409f975c98c
 console.log(img);
 
 pib.replaceWith(img);
+=======
+>>>>>>> 9d5503878510cbfb880310501d4430213075c89f
